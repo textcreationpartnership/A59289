@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on the last speech of the late William Lord Russel</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59289</idno>
+            <idno type="STC">Wing S2656</idno>
+            <idno type="STC">ESTC R25790</idno>
+            <idno type="EEBO-CITATION">09127263</idno>
+            <idno type="OCLC">ocm 09127263</idno>
+            <idno type="VID">42488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1294:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on the last speech of the late William Lord Russel</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Graves,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Elkanah Settle--Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:42488:1" rendition="simple:additions"/>
+            <head>ANIMADVERSIONS ON THE Laſt Speech and Confeſſion OF THE LATE WILLIAM Lord RUSSEL.</head>
+            <p>HAving peruſed a certain Printed ſheet, called, <hi>The Speech of the Lord</hi> Ruſſel <hi>to the</hi> Sheriffs, <hi>together with the Paper delivered by him to them at the place of Execution;</hi> I could no <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> imagine the ſaid Paper to be the Words of a Per<g ref="char:EOLhyphen"/>son of his Quality, or indeed of a dying Chriſtian, till <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ound underwritten, <hi>Printed by</hi> J. Darby <hi>by Direction <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lady</hi> Ruſſel.</p>
+            <p>Upon this ſatisfaction, I could not forbear ſeriouſly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d thoroughly examining the Contents of the Speech <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Paper; and upon full conſideration thereof, I think <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Duty of a good Subject to give the World my <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inion of the ſeveral Proteſtations and Aſſertions <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>roughout it, and the Tendency they naturally bear.</p>
+            <p>In his ſhort Speech to the <hi>Sheriff</hi> he ſays little; only, <hi>that be expected much noiſe at that place, and therefore <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng not fond of much ſpeaking, and much leſs at that <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</hi> He tells the Sheriff, <hi>He had ſet down in that Paper</hi> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en and there given him) <hi>all that he THO<g ref="char:V">Ʋ</g>GHT FIT <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ave behind him:</hi> And truly in that he ſpoke like an <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, for in the ſaid Paper he has left no more behind <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m, as he ſays, then he <hi>Thought fit indeed.</hi>
+            </p>
+            <p>In true, he continues in the ſaid Speech to affirm, <hi>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the words of a dying man, I know of no Plot, either againſt <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Kings Life, or the Government.</hi> The Truth and Va<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dity of which dying Proteſtation, we ſhall ſee fully examined in his following Paper.</p>
+            <p>The ſubject of the firſt Paragraph in the Paper; is only <hi>his Thoughts</hi> of another World, and his Preparati<g ref="char:EOLhyphen"/>ons made for Death; his Thanks to God for his In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ite Bleſſings, both in the Advantages of his Worthy Parents and Religious Education, with the Aſſurance of the Love and Mercy of God through the Merits of Chriſt, and Fullneſs of Joy in his Preſence, <hi>&amp;c.</hi> All which I have nothing to ſay to, but only to wiſh with Cordial Chriſtian Charity, that he has found that Mercy from the hands of a Gracious God, which his own hopes aſſured him: For Heaven forbid the higheſt of Criminals ſhould be puniſh'd beyond the <hi>Grave,</hi> or that a Temporal puniſhment with a true Penitence might not be a ſufficient Expiation for the greateſt Guilt.</p>
+            <p>In the ſecond Paragraph, he gives you an account of his Faith, ſaying, <hi>I dye of the Reformed Religion, a true and ſincere Proteſtant, and in the Communion of the Church of</hi> England, <hi>though I could never yet comply with, or riſe up to all the heights of many People.</hi>
+            </p>
+            <p>Here it is true he is of the Church of <hi>England</hi>'s Communion; but indeed ſuch a <hi>Mungril</hi> Communi<g ref="char:EOLhyphen"/>cant of that Church, that he cannot comply with, or rise up to the heights of many people of that Commu<g ref="char:EOLhyphen"/>nion. Now how he has lag'd below the Members of our Church; not only the Fatal <hi>Cauſe</hi> that brought him to his End, demonſtrates; but a farther ſample of his Religion we have upon Record in the Lear<g ref="char:EOLhyphen"/>ned Works of his own good <hi>Chaplain</hi> the Author of <hi>J<g ref="char:V">Ʋ</g>LIAN.</hi>
+            </p>
+            <p>Where the Doctrine of, <hi>Rebel my Country-men,</hi> is ſo elaborately handled, and that great pattern of Chriſt <hi>Submiſſion to Magiſtracy,</hi> and that diſtinguiſhing <hi>Shib<g ref="char:EOLhyphen"/>boleth</hi> of Chriſtianity, <hi>Paſſive Obedience,</hi> is ſo Artfully attaqued; that truly-from ſuch a <hi>Paſtor,</hi> and ſuch <hi>Principles,</hi> 'tis undoubtedly evident, that (to uſe his Expreſſion) he was not extreamly well taught to reach to the heights of the Church of <hi>England.</hi>
+            </p>
+            <p>From this part of his Paper, to the end of the Chap<g ref="char:EOLhyphen"/>ter, his Lordſhip begins to bear up ſmartly to the matter; and the whole Paper throughout, is but a Compact of the higheſt Uncharity againſt the King and Court, a continued Arraignment of the Judge and Juſtice of the Kingdom, and indeed the whole Go<g ref="char:EOLhyphen"/>vernment it ſelf: A heap of Exclamations againſt the monſtrous dangers of <hi>Popery,</hi> and an Appeal to the very <hi>Mobile</hi> to remove them, and laſtly a feeble and lame pretence of his own Loyalty and Innocence crutch'd up with ſo many <hi>Reſervations, Evaſions,</hi> and <hi>Equivocations,</hi> that even through his Lordſhips own <hi>Spectacles</hi> were never ſeen in the Rankeſt of <hi>Jeſuits 3</hi> which you'll find as follows.</p>
+            <pb n="2" facs="tcp:42488:2"/>
+            <p> But firſt, for a taſte of his <hi>Innocence,</hi> in Paragraph the 8th. he avers, <hi>I never was at Mr.</hi> Shepherds <hi>with that Company but once, and there was no undertaking then of ſecuring and ſeizing the Guards, nor none appoin<g ref="char:EOLhyphen"/>ted to view or examine them:</hi> (which (nor none) I'll be ſo charitable not to take in the Affirmative, but read it (nor any)] <hi>Some diſcourſe there was of the Feaſible<g ref="char:EOLhyphen"/>neſs of it, had ſeveral Times by ACCIDENT in general diſcourſe elſewhere I have heard it mentioned, as a thing might eaſily be done, but never conſented to as fit to be done. And particularly at my Lord</hi> Shaftsbury<hi>'s, there being ſome general diſcourſe of this kind, I immediately flew out, and exclaimed againſt it; and ask'd if the thing ſucceeded, what muſt be done next but Maſſacring the <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, and killing 'em in Cold Blood? which I look'd upon as ſo deteſtable a thing, and ſo like a Popiſh Practice, that I could not but abhor it. And at the ſame time the Duke of</hi> Monmouth <hi>took me by the Hand, and told me very kindly. My Lord, I ſee you and I are of a Temper: did you ever hear ſo horrid a Thing?</hi>
+            </p>
+            <p>Here obſerve the prettieſt piece of more than Je<g ref="char:EOLhyphen"/>ſuitical Equivocation. The Conference at <hi>Shepherds</hi> contained no <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking</hi> of <hi>Securing</hi> or <hi>Seizing</hi> the Guards, <hi>&amp;c.</hi> Only ſome Diſcourſe about the <hi>Feaſibleneſs</hi> of it. If ſo eminent a piece of work as Seizing the Kings Guards were only a piece of <hi>Title Tatle</hi> amongſt theſe great men, a Tryal of Skill to argue for <hi>Wit-ſake,</hi> or to paſs away the time over a Glaſs of Mr. <hi>Shepherds Sherry:</hi> How comes it about the Lord heard it by his own Confeſſion SEVERAL TIMES, and oh wonderful, all by <hi>Accident!</hi> A thing never inten<g ref="char:EOLhyphen"/>ded to be put in Action, could never be the dull re<g ref="char:EOLhyphen"/>iterated impertinent Talk ſo many times over, amongſt perſons of ſuch Senſe, nor could the Lord <hi>Ruſſel</hi>'s Ex<g ref="char:EOLhyphen"/>clamation of, <hi>What kill 'em in cold Blood?</hi> And harm<g ref="char:EOLhyphen"/>leſs <hi>Monmouth</hi>'s <hi>(Oh horrid!)</hi> to it, be a rational Re<g ref="char:EOLhyphen"/>partee to a <hi>Chimera,</hi> or a Diſcourſe only <hi>én Paſſant.</hi> No, no, the buſineſs is this; the Lord <hi>Ruſſel</hi> is to die as Innocent as a <hi>Sucking Lamb,</hi> (for <hi>Child unborn</hi>'s out of faſhion;) and becauſe the ſeizing of Guards was on<g ref="char:EOLhyphen"/>ly Sworn againſt him at the Meeting at <hi>Shepherds,</hi> to make the Witneſſes Perjured, the Diſcourſe of it at the <hi>other ſeveral</hi> Times and Places might be in order to the putting it into <hi>Execution,</hi> and what Treaſon ye pleaſe; but at that one <hi>onely</hi> Time, 'twas all <hi>harmleſs Prattle,</hi> and nothing but the <hi>Feaſibleneſs</hi> of the Thing the matter in debate.</p>
+            <p>However, tho' the Innocent Lord lets us know, and all this with no leſs than the words of a dying Proteſtant, that the feaſibility of the buſineſs was the only Argu<g ref="char:EOLhyphen"/>ment of the Guards ſeizing, in this 8th. Paragraph: In the 10th: Paragraph he gives a farther Narrative of this Meeting at <hi>Shepherd</hi>'s; and there, as damnable ill fortune would have it, he relates ſo different an ac<g ref="char:EOLhyphen"/>count of the Thing, that <hi>Bedlow</hi>'s and <hi>Prance</hi>'s deſcripti<g ref="char:EOLhyphen"/>on of Sir <hi>Edmundbury</hi>'s Murder, are little leſs contra<g ref="char:EOLhyphen"/>dictory, <hi>viz.</hi> he ſays in theſe words, <hi>The day before that Meeting, I came to Town for two or three days; and the Duke of</hi> Monmouth <hi>came to me, and told me, he was extreme glad I was come to Town, for my Lord</hi> Shaftsbury <hi>and ſome hot men would undo us all: How ſo, my Lord? I ſaid, Why (anſwer'd he) they'll certainly do ſome diſorderly thing or other, if ſome care be not taken; and therefore, for Gods ſake uſe your endeavours with your Friends, to prevent any thing of this kind. He told me, there would be Company at Mr.</hi> Shepherd<hi>'s that night, and deſired me to be at home that evening, and he would call me, which he did; and when I came into the Room, I ſaw Mr.</hi> Rumſey <hi>ſitting by the Chimney, tho' he ſwears he came in after; and there were things ſaid by ſome with much more</hi> HEAT <hi>than</hi> JUDGMENT, <hi>which I did ſufficiently diſapprove, and yet for theſe things of ſtands condemned. But I thank God my para was ſincere and will meant.</hi>
+            </p>
+            <p>Here we find the fa<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Affairs ſtrangely alter'd; for now the Duke of <hi>Monmouth</hi> comes with an Out-cry, that my Lord <hi>Shaftsbury</hi> and other <hi>Hot men</hi> were for do<g ref="char:EOLhyphen"/>ing things ſo diſorderly, as threaten'd no leſs than <hi>to un<g ref="char:EOLhyphen"/>do 'em all;</hi> and <hi>Shepherds</hi> being the place of aſſignation, my Lord <hi>Ruſſel</hi> heard ſome things ſaid there with more <hi>Heat</hi> than <hi>Judgment.</hi> Now that thoſe things ſaid muſt ſignifie the buſineſs of ſeizing the Guards, is plain, by my Lords owning it to be <hi>that for which he ſtoud condem<g ref="char:EOLhyphen"/>ned;</hi> and that the debate muſt be upon the down-right <hi>Reſolution</hi> and <hi>Propoſals</hi> of putting the project into a ſpeedy <hi>Execution,</hi> is every way manifeſt; For, if the above-ſaid harmleſs <hi>feaſibleneſs</hi> of it were all that had been argued amongſt them, there had been no need ei<g ref="char:EOLhyphen"/>ther of <hi>Monmouth</hi>'s <hi>Allarum,</hi> the Lord <hi>Ruſſel</hi>'s <hi>Reproof,</hi> or the Companies <hi>Heat</hi> out-running their <hi>Judgments;</hi> nor was there any occaſion for his thanking God <hi>that his part was ſincere, and well meant,</hi> if theirs had been ſo too.</p>
+            <p>And that the Reader may not miſtake, and think poſ<g ref="char:EOLhyphen"/>ſibly theſe two different Accounts of the Guards ſeizing might be at two different times, the Lord anſwers ex<g ref="char:EOLhyphen"/>preſly, <hi>No; for be never was at</hi> Shepherd'<hi>s in that Com<g ref="char:EOLhyphen"/>pany but once.</hi>
+            </p>
+            <p>However, the Lord <hi>Ruſſel</hi> ſtill upholds his Innocence; and tells you in the laſt Paragraph, — <hi>It was inferred from hence, that I was acquainted with thoſe Heats and ill Deſigns, and did not diſcover them; But that was but</hi> MISPRISION <hi>of Treaſon at moſt.</hi> I ſhall not an<g ref="char:EOLhyphen"/>ſwer for what paſs'd at the Tryal, becauſe 'tis not yet publiſh'd, nor was I preſent to hear it; and therefore I leave the diſpute of that to the Judges learned in the Law, that were not of my Lord <hi>Russel</hi>'s Opinion. But ſuppoſing my Lord would inſinuate himſelf only guilty of <hi>Miſpriſion</hi> of Treaſon from the proofs againſt him at the <hi>Tryal;</hi> yet by his own proofs againſt himſelf in this intended <hi>Vindication,</hi> he was recorded himſelf to all Po<g ref="char:EOLhyphen"/>ſterity plainly guilty of High-Treaſon, in that very Pa<g ref="char:EOLhyphen"/>per where he arrogates the higheſt of Innocence. For ſuppoſe, as he affirms, that the proof of his being in a Company once at Mr. <hi>Shepherd</hi>'s, where Treaſon was ſpoken, and the concealing it were only <hi>Miſpriſion; Miſpriſion</hi> being imagined to be a mans unfortunate hearing of Treaſon ſpoken in ill company, and after<g ref="char:EOLhyphen"/>wards the wanting of prudence or care to detect that Treaſon. Yet in his Paper, his Crime is of a deeper dye. He confeſſes there, He held Amity and Correſpondence with perſons that did not <hi>once</hi> or <hi>twice,</hi> but <hi>ſeveral times,</hi> treat upon the ſame numerical Treaſonable Projection; He viſited 'em at their own Houſes, as <hi>Shaftsbury</hi>'s for inſtance, and give 'em meetings abroad, And tho it be Miſpriſion of Treaſon to conceal the hearing of it tho' a man abjures and avoids the company of the Tray<g ref="char:EOLhyphen"/>tor that ſpeaks it; yet this Innocent Lord continues the higheſt friendſhip with theſe very Treaſon-mongers, herds and neſts with them at all turns, and has the con<g ref="char:EOLhyphen"/>tinued Repetition of Treaſonable Machinations in his
+<pb n="3" facs="tcp:42488:2"/>ears and yet his want of diſcovery is and ſhall be only <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>bare Miſpriſion of Treaſon.</hi> But the Noble Lord makes a very honeſt and charitable excuſe for his ſilence in not diſcovering, <hi>viz. I hope no body will imagine that ſo mean a thought could enter into me, as to go about to ſave my life by accuſing others.</hi> That is, my Lord could hear <hi>Shaftſ<g ref="char:EOLhyphen"/>bury</hi> and his Crew projecting to play the <hi>Cut-throats,</hi> &amp; if no leſs than the Kings Guards and that too in cold blood, tho' indeed himſelf abhorr'd ſuch a <hi>Popiſh</hi> pra<g ref="char:EOLhyphen"/>ctice, yet at the ſame time he affirms it a more Gentle<g ref="char:EOLhyphen"/>man like Quality to be true to Cut throats than Kings, to Treaſon than Loyalty, and hopes no man will ima<g ref="char:EOLhyphen"/>gine him capable of ſo mean a thought as to have diſco<g ref="char:EOLhyphen"/>vered this Rand of Aſſociating Murderers, tho' threaten<g ref="char:EOLhyphen"/>ing no leſs than the Murder of the Kings Guards, But my Lords is to be Innocent ſtill, and muſt and ſhall be ſo; for alas, the ſeizing of the Kings Guards was no De<g ref="char:EOLhyphen"/>sign at all, God knows, upon the Kings Perſons for in the next Paragraph he is very outragious to think <hi>how hard a Sentence be had;</hi> for he ſays, <hi>Nothing was ſworn againſt him, but ſome diſcourſes about making ſome</hi> STIRS, [a pretty Puritanical mincing word for a Na<g ref="char:EOLhyphen"/>tional Inſurrection] which by no means he will allow to be <hi>levying War against the King.</hi> Beſides, <hi>by a ſtrange Fetch, the Deſign of ſeizing the Guards, was conſtrued a Deſign of killing the King; and ſo I was caſt.</hi> Good Hea<g ref="char:EOLhyphen"/>vens! that <hi>Ignoranous</hi> was our of faſhion! and that a pack of <hi>Popiſh Tory Jury-men,</hi> ſhould ever interpret a Combination for seizing the Guards of a King to be the leaſt ill intention againſt the Perſon of Majeſty. Nay, the dying Lord is ſo extravagantly poſſeſs'd not only with his own undoubted Innocence, but even of thoſe very men too that with all this Hear and Fury ſo many ſeveral times machinated ſo Murderous and Treaſo<g ref="char:EOLhyphen"/>nable a Deſign, that in the 13th Paragraph <hi>he wiſhes that the Gentlemen of the Law would make more conſcience than to run men down by ſtrains and fetches, and impoſe on eaſie and willing Juries, to the Ruine of Innocent men; for to kill by forms &amp; ſubtilties of Law, is the worſt ſort of Murder. But I wiſh the raſhneſs of hot men, &amp; the partiality of Juries, may be ſtop'd with my Blood; which I would offer up with more joy, if I thought I ſhould be the last were to ſuffer in ſuch a way.</hi> In this 'tis plainly intimated, that his very Brethren in iniquity; thoſe that not like himſelf <hi>diſſented</hi> and <hi>diſap<g ref="char:EOLhyphen"/>proved</hi> of ſeizing the Guards, but the very Promoters &amp; Defenders of the Deſign, are all <hi>Innocent</hi> too; inſomuch that 'tis his laſt Prayer, That their guiltleſs Blood may not be ſacrificed like His, but himſelf may be the laſt of Martyrs in this Cauſe.</p>
+            <p>I proteſt I am ſo ſtartl'd at the latitude of ſome mens conſciences, and the extravagance of ſome mens ſelf-juſtification, that I wonder what 'tis they will allow to be Treaſon, or whether or no they have not expunged all thoſe Texts in their Bibles that teach Obedience to Kings as the <hi>Ordinance of God</hi> till at laſt they believe there is no ſuch <hi>Duty</hi> in the whole Body of Chriſtianity, and no ſuch thing as Treaſon in <hi>Rerum Naturâ.</hi>
+            </p>
+            <p>But to return to his Lordſhips Confeſſion. Amongſt thoſe unanſwerable Demonſtrations of his Loyalty to the Crown, and love to the King, with the deſcription of his miraculous Innocence, he gives you his ſenſe of the preſent State of the Nation, and in the ſecond Pa<g ref="char:EOLhyphen"/>ragraph he ſays, <hi>I wiſh with all my Soul all our unhappy differences were removed, and that all ſincere Proteſtants would ſo far conſider the danger of Popery, as to lay aſide their Heats, and agree againſt the common Enemy.</hi> In that good wiſh I hope all good Proteſtants will joyn with him, provided his <hi>
+                  <g ref="char:V">Ʋ</g>niting</hi> and <hi>Agreeing</hi> be honeſt, as I much ſuſpect the contrary; For he goes on, and I ſays.</p>
+            <p>
+               <hi>For Popery, I look on it as an Idolatrous and Bloody Re<g ref="char:EOLhyphen"/>ligion, and therefore thought my ſelf <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in my <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion to do all things againſt it. And by that, I foreſaw I ſhould procure ſuch great <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to my ſelf and ſuch <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ones, that I have now been for ſome time expecting <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> And bleſſed be God I fall by the</hi> Ax, <hi>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not by! the <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tryal.</hi>
+            </p>
+            <p>Here his Proteſtant Lordſhip <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>cunningly,</hi> but moſt <hi>venomouſly</hi> too makes his Death <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Popiſh Conſpiracy</hi> againſt him; and that from his fatal Zeal againſt <hi>Popery,</hi> he foreſaw the great and powerful Ene<g ref="char:EOLhyphen"/>mies he ſhould procure, and expected the very <hi>Fate</hi> be<g ref="char:EOLhyphen"/>fel him. And to explain himſelf was born on this Topick, paragr. the 7th. he ſays, <hi>that his earneſtneſs againſt the Duke about the Bill of Excluſion; had no ſmall inſtaence on his preſent Sufferings.</hi> And again par. the 5th! he ſays, <hi>I did believe, and do ſtill, that</hi> Popery <hi>is breaking in upon the Nation, and thoſe that will advance it, will ſtop at no<g ref="char:EOLhyphen"/>thing to carry on their Deſigns, I am heartily ſory ſo ma<g ref="char:EOLhyphen"/>ny Proteſtants give their helping hand to it: But I hope God will preſerve the Protestant Religion, and this Nation, tho' I am affraid it will fall under very great Trials, and very ſharp Suffering.</hi>
+            </p>
+            <p>Here we have his Lordſhips Scheme of the whole Na<g ref="char:EOLhyphen"/>tions Deſtruction, by the already All commanding power of <hi>Popery,</hi> and himſelf no leſs than one of the <hi>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>Martyrs</hi> to it, only he thanks God he falls by the <hi>Ax,</hi> not the <hi>Faggot.</hi> And who is in this damnable new <hi>Popiſh Plot</hi> againſt the Lord <hi>Ruſſels</hi> life, but that great and powerful Enemy the <hi>Duke</hi> of <hi>York;</hi> for his Bill of Ex<g ref="char:EOLhyphen"/>cluſion earneſtneſs, was the great influence in his Fall. And to effect this new Diabolical <hi>Popiſh</hi> Conſpiracy, thoſe that advance it, will ſtop at nothing to carry on their Deſigns; nay, the very <hi>Proteſtants</hi> have a hand in it, inſomuch that he plainly inſinuates that all thoſe new <hi>Protestant Evidences</hi> againſt himſelf and the reſt of the late Plotters; tho' men of <hi>Quality</hi> and <hi>Fortune,</hi> tho' men of their <hi>own Faction,</hi> are only ſo many <hi>Popiſh Tools</hi> engaged by <hi>Subornation</hi> and <hi>Perjury,</hi> from the great <hi>Popiſh Enemies</hi> of our Religion, to remove the great Zealots for the Proteſtant Religion, and cut the Throats of the Innocent, by no leſs than the moſt unex<g ref="char:EOLhyphen"/>ampled and moſt infernal of <hi>Perjuries.</hi>
+            </p>
+            <p>Nay, the Root of all this premeditated <hi>Plot</hi> againſt their <hi>Protestant</hi> lives, lies not in the <hi>Witnesses</hi> and their <hi>Suborners</hi> only, but in the very Judges and Juries themſelves. For he ſays in para. the 13th <hi>From the Time of chooſing Sheriffs, I concluded the Heat in that mat<g ref="char:EOLhyphen"/>ter would produce ſomething of this kind; And I am not much ſurprized to find it fall upon me. And I wiſh what is done to me, may put a ſtop and ſatiate ſome peoples Re<g ref="char:EOLhyphen"/>venge, and that no more Innocent Blood be ſhed.</hi>
+            </p>
+            <p>Here 'tis obſerved, that not only the Juſtice of the Nation is impeached, but the wanting of the old <hi>Ig<g ref="char:EOLhyphen"/>noramus</hi> Sheriffs and Juries is an evident combination againſt the lives of <hi>Loyal, Innocent,</hi> and <hi>Protestant Sub<g ref="char:EOLhyphen"/>jects;</hi> nay tho' the kind Lord confeſſes that <hi>Shaftsbury</hi> himſelf, once acquitted by <hi>Ignoramus,</hi> with the reſt of his <hi>Accomplices</hi> were really Guilty of Conſpiring the ſeizing the Guards, and murdering 'em in cold Blood, and raiſing of <hi>Stirs</hi> alias <hi>Inſurrections;</hi> yet the want of
+<pb n="4" facs="tcp:42488:3" rendition="simple:additions"/>Sheriffs and Jurice to plead <hi>Ignoramus</hi> even to ſuch au<g ref="char:EOLhyphen"/>dacious Conſpiracies; is a bringing of Innocence and <hi>Loyalty</hi> to <hi>Scaffolds</hi> and <hi>Gibbers,</hi> a gratifying the inſa<g ref="char:EOLhyphen"/>tiate Revenge of <hi>Popiſh Courtiers</hi> Conſpiring for <hi>Guilt<g ref="char:EOLhyphen"/>leſs Blood,</hi> and <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o leſs than making <hi>Popery</hi> rule the <hi>Aſ<g ref="char:EOLhyphen"/>ſendant</hi> of the whole <hi>Court</hi> and <hi>City.</hi>
+            </p>
+            <p>By this Inſinuation of ſuch a <hi>Popiſh</hi> Confederacy, in<g ref="char:EOLhyphen"/>to the heads of the <hi>
+                  <g ref="char:V">Ʋ</g>nwary</hi> and <hi>Ignorant</hi> Reader, and indeed the whole Babble of the Kingdom too eaſily <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed into ſuch an Apprehenſion, the Zealous Lady <hi>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to loſe no time in ſo good a Deſign, having ſet it to Printing a day before the Lord died; Here's a plain, <hi>perfect</hi> and <hi>viſible</hi> Incentive to the Multitude, to Revenge the Death of this Innocent Lord, and riſe up in Arms to prevent the growth of <hi>Popery,</hi> and the effuſion of more Guiltleſs Blood ſtill threatned. But truly the peaceable Lord in the 6th. paragraph, ſays, <hi>I forgive the whole World, particularly all thoſe concerned in taking away my Life: and I deſire and conjure my Friends to think of no Revenge, but to ſubmit to the Holy will of God,</hi> &amp;c. Here indeed the good Lord deſires no Revenge, but at the ſame breath he intimates that his Blood <hi>calls</hi> for it, only his forgiving Charity <hi>forbids</hi> it. But this is ſo <hi> tranſparent</hi> a Mask, that half an eye may ſee through it, and this ſeeming Chriſtian like Dehortation of the peo<g ref="char:EOLhyphen"/>ple from Rebellion, is but adding a new provocation to 'em to begin it, whilſt the generoſity and goodneſs of this <hi>Murdered</hi> Lord, as he calls himſelf, is but ſetting a <hi>higher price</hi> on his Blood: Thus after ſo many falſe colours on his own Integrity, <hi>and appealing to God he had as Paſſion, by end, or ill Deſign in him.</hi> Tho' at the ſame time he tells you both his <hi>Comrades</hi> and their <hi>Character</hi> and his own privity to their <hi>abominable Practices the Projections;</hi> he publiſhes that <hi>falſe</hi> inflaming Narratives his own pretended Innocence, that is not to be ma<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by any thing but the <hi>Speech</hi> of the <hi>Noble Peer,</hi> and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerves the ſame Fate.</p>
+            <p>Thus every Deſign againſt the Peace of the Nation and all Plots and Machinations whatever againſt t<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> King and Government, tho' never ſo plainly made o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or by more <hi>ſubſtantial</hi> Evidence, are to be inſtantly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ned into <hi>Popiſh Perjury</hi> and <hi>Subornation:</hi> And Guilt whatever <hi>can</hi> or <hi>ſhall</hi> lie at any door but the <hi>P<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp; Jeſuits;</hi> whilst the Execution of this Lord, is to be <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no other a <hi>Tool</hi> than the Kings intended <hi>Aſſaſſi<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion, viz.</hi> a <hi>Popiſh Combination</hi> and a <hi>Popiſh Blow.</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet ſee the wretchedneſs of the Project, in all this v<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mence for Innocent <hi>Proteſtant Blood,</hi> I defy any <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> partial Reader to look o're but this ſhort Paper of my Lord <hi>Ruſſels,</hi> and to tell me there is not 100 times worſe matter diſcuſs'd and bandyed by the Lord <hi>Shaft<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bury</hi> and his <hi>Colleagues</hi> even in my Lord <hi>Ruſſels</hi> ſingle Sheet of Paper, and all for the proving a <hi>Plot</hi> againſt the Kings Life and the Government, than in all <hi>Cole<g ref="char:EOLhyphen"/>man's voluminous</hi> Letters, the great and almoſt only <hi>Gorgon</hi> of Popery.</p>
+            <p>I ſhall only finiſh with my true and cordial ſence o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the publication of that Paper, that 'tis a much greate<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Diſhonour</hi> to the Noble Family of that <hi>Great</hi> Man, that the <hi>Scaffold</hi> he died upon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Graves,</hi> MDCLXXXIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
